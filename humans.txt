@@ -1,0 +1,28 @@
+/* TEAM */
+    FOUNDER: Sebastian Gustavsson
+    GITHUB: sebastiangus
+    From: Kalmar, Småland, Sweden
+
+/* THANKS */
+    Teacher: Johan
+    University: Linnaeus University
+    Faculty: Faculty of Tecgnology
+
+    Teacher: John
+    University: Linnaeus University
+    Faculty: Faculty of Tecgnology
+
+    Teacher: Mats
+    University: Linnaeus University
+    Faculty: Faculty of Tecgnology
+
+    Teacher: Jacob
+    University: Linnaeus University
+    Faculty: Faculty of Tecgnology
+
+
+/* SITE */
+Last update: {{file.modified.time}}
+Language:
+Doctype: HTML5
+IDE: Webstorm
