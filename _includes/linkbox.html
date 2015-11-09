@@ -1,10 +1,10 @@
 <div class="linkbox">
-    {% if page.easy_href || page.intermediate_href || page.hard_href || page.wikipedia_href %}
+    {% if page.beginner_href || page.intermediate_href || page.advanced_href || page.wikipedia_href %}
     <h1>More to read</h1>
-    {% if page.easy_href %}
-    <h2>Easy</h2>
-        {% for item in page.easy_href %}
-        <a href={{item[0]}}>{{item[1]}}<a>
+    {% if page.beginner_href %}
+    <h2>Beginner</h2>
+        {% for item in page.beginner_href %}
+        <a href={{item[0]}}>{{item[1]}}</a>
         {% endfor %}
         <hr>
         <br>
@@ -13,16 +13,16 @@
     {% if page.intermediate_href %}
     <h2>Intermediate</h2>
         {% for item in page.intermediate_href %}
-        <a href={{item[0]}}>{{item[1]}}<a>
+        <a href={{item[0]}}>{{item[1]}}</a>
         {% endfor %}
         <hr>
         <br>
     {% endif %}
 
-    {% if page.hard_href %}
-    <h2>Hard</h2>
-        {% for item in page.hard_href %}
-        <a href={{item[0]}}>{{item[1]}}<a>
+    {% if page.advanced_href %}
+    <h2>Advanced</h2>
+        {% for item in page.advanced_href %}
+        <a href={{item[0]}}>{{item[1]}}</a>
         {% endfor %}
         <hr>
         <br>
@@ -31,8 +31,9 @@
     {% if page.wikipedia_href %}
         <h2>Wikipedia</h2>
         {% for item in page.wikipedia_href %}
-        <a href={{item[0]}}>{{item[1]}}<a>
+        <a href={{item[0]}}>{{item[1]}}</a>
         {% endfor %}
     {% endif %}
+    <hr>
     {% endif %}
 </div>
