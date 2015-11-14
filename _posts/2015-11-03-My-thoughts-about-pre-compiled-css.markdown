@@ -26,6 +26,4 @@ and h1-tags inside a specific layout you can nest them inside that tag instead o
 Instead of using numbers you can assign values to variables and use in your code. It's a lot easier to remember
  $green-dark or $background-color instead of a hex-number. In this case $green-dark is asssigned the hex-value \#617643
 
-####Extend/Inheritance
-
 
