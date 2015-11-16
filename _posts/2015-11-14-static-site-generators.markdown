@@ -2,13 +2,10 @@
 Author: "Sebastian Gustavsson"
 layout: "post"
 title: "Static Site Generators (SSG)"
-<<<<<<< HEAD
-categories: ""
-tags: "css, workflows"
-=======
 categories:
 tags:
->>>>>>> master
+categories:
+tags:
 link_box: true
 beginner_href: [["https://jekyllrb.com/", Jekyll],["https://learn.andrewmunsell.com/learn/jekyll-by-example/introduction",Jekyll introduction]]
 intermediate_href: [["https://github.com/Shopify/liquid/wiki/Liquid-for-Designers", Liquid for Designers]]
