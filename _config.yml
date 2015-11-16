@@ -3,8 +3,8 @@ title: Sebastian Gustavsson 1dv022 Blog
 email: sg222pm@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
  Blog for the course 1dv022, posting texts about different topics like HTML, CSS, SASS; Static site generators.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sebastiangus.github.io/sg222pm.github.io/" # the base hostname & protocol for your site
+baseurl: "/sg222pm.github.io/" # the subpath of your site, e.g. /blog/
+url: "http://sebastiangus.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username: sebastiangus
 
