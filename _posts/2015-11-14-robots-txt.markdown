@@ -22,4 +22,10 @@ but be aware of that evil bots will probably scan for just those excluded places
 ##No robots.txt
 If you have no robots.txt the robots will interpret that as you'd like to have all of your site scanned.
 
+##My configuration
+    User-agent: *
+    Disallow: /
+
+I dont "allow" any robots to this site. At least not the kind ones accepting my rejection.
+
 
