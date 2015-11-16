@@ -2,7 +2,7 @@
 Author: "Sebastian Gustavsson"
 layout: "post"
 title: "What is robots.txt"
-categories: "SEO, robots"
+categories: ""
 tags: "SEO"
 link_box: true
 beginner_href:
