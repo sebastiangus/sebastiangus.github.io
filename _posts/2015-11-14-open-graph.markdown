@@ -2,8 +2,8 @@
 Author: "Sebastian Gustavsson"
 layout: "post"
 title: "Open Graph, what is it? whats the use?"
-section: "standards"
-tags: ""
+section:
+tags:
 link_box: true
 beginner_href:
 intermediate_href:

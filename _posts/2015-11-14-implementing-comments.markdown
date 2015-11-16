@@ -2,8 +2,8 @@
 Author: "Sebastian Gustavsson"
 layout: "post"
 title: "Implementing comments with disqus"
-category: ""
-tags: ""
+category:
+tags:
 link_box: boolean
 beginner_href: [["https://help.disqus.com/customer/portal/articles/1104788-web-integration",Getting started],["https://help.disqus.com/customer/portal/articles/472097-universal-embed-code", Code to embed]]
 intermediate_href: [["https://help.disqus.com/customer/portal/articles/472098-javascript-configuration-variables", Disqus configuration],["http://jekyllrb.com/docs/variables/",]]
