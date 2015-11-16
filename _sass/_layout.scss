@@ -172,7 +172,7 @@
 
 .page-heading {
     font-size: 2em;
-    font-family: Lobster;
+    font-family: Lobster, $base-font-family;
 }
 
 .post-list {
@@ -204,7 +204,7 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
-    font-family: Lobster;
+    font-family: Lobster, $base-font-family;
 }
 
 .post-title {
