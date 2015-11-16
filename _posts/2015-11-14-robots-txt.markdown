@@ -2,8 +2,13 @@
 Author: "Sebastian Gustavsson"
 layout: "post"
 title: "What is robots.txt"
+<<<<<<< HEAD
 categories: ""
 tags: "SEO"
+=======
+categories:
+tags:
+>>>>>>> master
 link_box: true
 beginner_href:
 intermediate_href:
