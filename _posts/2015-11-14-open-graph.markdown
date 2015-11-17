@@ -27,7 +27,7 @@ I use OG to extract data about Title, Description (excerpt - first paragraph, st
     <meta property="og:article:url" content="{{page.url}}" />
     <meta property="og:article:section" content="{{page.section}}" />
     {% for item in page.tags %}
-         <meta property="og:article:tag" content="{{item}}" />
+    <meta property="og:article:tag" content="{{item}}" />
     {% endfor %}
     <meta property="og:article:author" content="https://github.com/sebastiangus" />
 
