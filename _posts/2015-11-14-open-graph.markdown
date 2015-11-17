@@ -20,7 +20,7 @@ Open Graph is a protocol to let web page creators make their content more presen
 
 
 ##How I use OG
-I use OG to extract data about Title, Description (excerpt - first paragraph, stripped from HTML code), page.url, section, tags and author.
+I use OG to present data about title, description (excerpt - first paragraph, stripped from HTML code), page.url, section, tags and author.
 
     meta property="og:title"
     meta property="og:description"
